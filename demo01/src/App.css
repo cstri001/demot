@@ -5,6 +5,6 @@ button, input {
 
 .tervehdysteksti {
     margin-top : 10px;
-    border : solid 1px #ccc;
     padding: 5px;
+    border: solid 2px coral;
 }
